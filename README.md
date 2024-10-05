@@ -1,6 +1,6 @@
 ![hacktoberfest](https://github.com/industrustech/hacktoberfestindus2023/assets/93430494/8d4585cc-04ed-4c66-b3ef-f3c7bdfe2752)
 # hacktoberfestindus2023
-A beginner-friendly repo for developing web app as part of hacktoberfest 23
+A beginner-friendly repo for developing web app as part of hacktoberfest 2024
 
 ## About
 
