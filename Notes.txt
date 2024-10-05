@@ -1,0 +1,23 @@
+**For launch_ecommerce.sh**
+How to Use:
+Make the script executable: Run the following command to make the script executable:
+
+bash
+Copy code
+chmod +x launch_ecommerce.sh
+Run the script: Execute the script:
+
+bash
+Copy code
+./launch_ecommerce.sh
+Script Breakdown:
+warning_prompt(): Displays a warning message to the user before launching the application and waits for the user to input yes to proceed. Any other input aborts the launch.
+schedule_launch(): Asks the user how long they would like to wait (in seconds) before launching the application. It uses sleep to delay the execution.
+start_django_server(): Verifies that the manage.py file exists and starts the Django development server.
+This approach ensures that the user is aware of the launch and can schedule when to start the application.
+
+
+
+
+
+
